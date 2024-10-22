@@ -63,6 +63,6 @@ wp-includes/
 /wp-login.php
 /wp-mail.php
 /wp-settings.php
-/wp-signup.php
-/wp-trackback.php
-/xmlrpc.php
+#/wp-signup.php
+#/wp-trackback.php
+#/xmlrpc.php

@@ -38,3 +38,10 @@ $astra_footer_section_2 = astra_get_small_footer( 'footer-sml-section-2' );
 		</div><!-- .ast-container -->
 	</div><!-- .ast-footer-overlay -->
 </div><!-- .ast-small-footer-->
+
+<!-- wp:pattern {"slug":"twentytwentyfour/footer"} /-->
+
+<!-- Custom HTML content -->
+<div style="text-align: center; color: #333;">
+    <p>This is my custom text added to the footer.</p>
+</div>
