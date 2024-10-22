@@ -187,7 +187,7 @@ require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
 // Add custom text to the footer
 function add_custom_footer_text() {
     echo '<div style="text-align: center; color: #333;">
-            <p>This is my custom text added to the footer.</p>
+            <p>This is my custom text test added to the footer.</p>
           </div>';
 }
 add_action('wp_footer', 'add_custom_footer_text');
